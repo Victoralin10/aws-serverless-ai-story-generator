@@ -8,13 +8,15 @@ Inspirado en https://aws.amazon.com/pt/blogs/compute/implementing-an-event-drive
 
 1. NodeJS 16 o superior
 
-2. AWS CDK: `npm install -g aws-cdk`
+2. Docker
 
-3. AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+3. AWS CDK: `npm install -g aws-cdk`
 
-4. Configurar AWS CLI: `aws configure`
+4. AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-5. OpenAI ApiKey: https://platform.openai.com/account/
+5. Configurar AWS CLI: `aws configure`
+
+6. OpenAI ApiKey: https://platform.openai.com/account/
 
 
 ## Pasos para desplegar
