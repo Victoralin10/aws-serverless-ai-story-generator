@@ -1,0 +1,4 @@
+{
+  "stage": "dev",
+  "bedtimeCron": "cron(0 1 * * ? *)" // 8 PM GMT-5
+}
