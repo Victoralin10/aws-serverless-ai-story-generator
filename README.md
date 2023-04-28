@@ -33,4 +33,6 @@ Inspirado en https://aws.amazon.com/pt/blogs/compute/implementing-an-event-drive
 
 5. Desplegar: `npm run deploy`
 
-6. Eliminar: `npm run destroy`
+7. Guarda la api key de openai en el secret creado en secretsmanager.
+
+8. Eliminar: `npm run destroy`

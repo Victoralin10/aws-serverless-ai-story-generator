@@ -18,7 +18,6 @@ import * as path from 'node:path';
 interface BackendStackProps extends StackProps {
   readonly scenesTable: Table;
   readonly generatedStoriesTable: Table;
-  // readonly generatedStoriesStreamArn: string;
   readonly frontEndURL: string;
   readonly secret: Secret;
   readonly emailTopic: Topic;
